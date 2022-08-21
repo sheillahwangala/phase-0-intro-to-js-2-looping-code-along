@@ -1,3 +1,4 @@
+const arrayNames = ["Guadalupe", "Ollie", "Aki"]
 function writeCards(arrayNames, eventName) {
     let newArrayNames = [];
     for (let i=0; i<arrayNames.length; i++) {
